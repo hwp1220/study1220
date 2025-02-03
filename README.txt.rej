@@ -1,0 +1,7 @@
+diff a/README.txt b/README.txt	(rejected hunks)
+@@ -5,3 +5,4 @@
+ function2
+ 
+ end
++-------------
+\ No newline at end of file
